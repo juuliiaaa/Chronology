@@ -1,0 +1,6 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: AllegroTesteIndR, Configuração: Debug x64 ------
+1>AllegroTesteIndR.cpp
+1>AllegroTesteIndR.vcxproj -> C:\Users\beatr\OneDrive\Área de Trabalho\Jogo\Cronologia\x64\Debug\AllegroTesteIndR.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 12:12 e levou 02,579 segundos ==========
